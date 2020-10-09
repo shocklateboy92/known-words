@@ -14,10 +14,17 @@
 ある
 なる
 言う
+せる
 
+できる
 
 # For passive voice, I think
 れる
+
+# Grammar points
+たい
+ちゃう
+いう
 
 
 # Really should be a particle
@@ -27,7 +34,7 @@
 ん
 あ
 あっ
-
+えっ
 
 # Don't know what this is, exactly
 う
@@ -44,8 +51,24 @@
 この
 それ
 これ
+あの
+はい
+ここ
+いや
+
 
 さん
+
+# Things I already knew
+うん
+ああ
+くる
+お前
+分かる
+行く
+来る
+音
+
 
 # Words imported from anki sentences
 あかり
