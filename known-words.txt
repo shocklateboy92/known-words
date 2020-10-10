@@ -25,6 +25,8 @@
 たい
 ちゃう
 いう
+みる
+いく
 
 
 # Really should be a particle
@@ -55,7 +57,9 @@
 はい
 ここ
 いや
-
+よい
+まだ
+また
 
 さん
 
@@ -68,6 +72,16 @@
 行く
 来る
 音
+気
+者
+知る
+待つ
+中
+聞く
+
+
+# Character names
+創真
 
 
 # Words imported from anki sentences
