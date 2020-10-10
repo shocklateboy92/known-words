@@ -27,6 +27,8 @@
 いう
 みる
 いく
+ほう
+方
 
 
 # Really should be a particle
@@ -37,6 +39,7 @@
 あ
 あっ
 えっ
+おい
 
 # Don't know what this is, exactly
 う
@@ -60,6 +63,9 @@
 よい
 まだ
 また
+あと
+日
+力
 
 さん
 
@@ -78,10 +84,43 @@
 待つ
 中
 聞く
+出る
+ため
+話
+くださる
+持つ
+時間
+もらう
+すごい
+違う
+料理
+達
+ありがとう
+あなた
+食べる
+あんた
+早い
+一緒
+使う
+目
+ダメ
+入る
+僕
+考える
+次
+だから
+手
+作る
+
 
 
 # Character names
 創真
+トール
+
+# Mis-interpreted words by character names
+真
+創
 
 
 # Words imported from anki sentences
