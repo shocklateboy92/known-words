@@ -56,6 +56,9 @@
 ハッ
 ええ
 えッ
+# うう -> うい
+うい
+はっ
 
 
 # Don't know what this is, exactly
@@ -214,6 +217,7 @@
 あおい
 イチゴ
 コウ
+綾乃
 
 
 # Mis-interpreted words by character names
