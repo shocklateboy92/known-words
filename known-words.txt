@@ -137,6 +137,7 @@
 好き
 年
 何で
+強い
 
 # Character names
 創真
@@ -147,7 +148,8 @@
 幸平
 えり
 さくら
-
+# Miyamori Aoi
+あおい
 
 # Mis-interpreted words by character names
 真
