@@ -29,7 +29,10 @@
 いく
 ほう
 方
-
+しまう
+ござる
+# 〜なさい
+なさる
 
 # Really should be a particle
 の
@@ -40,6 +43,7 @@
 あっ
 えっ
 おい
+ねえ
 
 # Don't know what this is, exactly
 う
@@ -66,7 +70,14 @@
 あと
 日
 力
+なん
+そこ
+あいつ
+じゃん
+ただ
 
+
+魔法
 さん
 
 # Things I already knew
@@ -111,12 +122,32 @@
 だから
 手
 作る
-
-
+子
+死ぬ
+先生
+生徒
+出す
+もっと
+こっち
+頑張る
+帰る
+絶対
+確か
+やめる
+好き
+年
+何で
 
 # Character names
 創真
 トール
+小林
+ヒロ
+# Not sure who this is, maybe Yukihira Souma's dad?
+幸平
+えり
+さくら
+
 
 # Mis-interpreted words by character names
 真
