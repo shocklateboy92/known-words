@@ -107,6 +107,9 @@
 魔法
 さん
 
+王
+
+
 # Things I already knew
 うん
 ああ
@@ -219,6 +222,11 @@
 コウ
 綾乃
 
+# Yahari Ore no Seishun Love Come wa Machigatteiru
+葉山
+
+# Hinamatsuri
+新田
 
 # Mis-interpreted words by character names
 真
