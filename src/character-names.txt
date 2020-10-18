@@ -14,8 +14,7 @@
 幸平
 えり
 さくら
-# Miyamori Aoi
-あおい
+
 コウ
 綾乃
 
@@ -24,6 +23,12 @@
 
 # Hinamatsuri
 新田
+ヒナ
+
+# Shirobako
+# Miyamori Aoi
+あおい
+木下
 
 # Mis-interpreted words by character names
 真

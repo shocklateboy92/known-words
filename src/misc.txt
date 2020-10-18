@@ -37,6 +37,7 @@
 あげる
 さあ
 らしい
+つまり
 
 
 # Really should be a particle
@@ -59,6 +60,7 @@
 # うう -> うい
 うい
 はっ
+まぁ
 
 
 # Don't know what this is, exactly
@@ -84,6 +86,7 @@
 まだ
 また
 あと
+よる
 日
 力
 なん
@@ -103,10 +106,12 @@
 どうして
 なに
 とこ
+ボク
 
 魔法
 さん
 
 王
 
-
+# Like, wtf?!
+る

@@ -128,8 +128,18 @@
 一番
 彼
 会う
+合う
 はじめ
 女
+
+決まる
+別に
+一体
+覚える
+助ける
+心配
+信じる
+
 
 # Really?!
 ハンター
@@ -1074,8 +1084,7 @@
 幸平
 えり
 さくら
-# Miyamori Aoi
-あおい
+
 コウ
 綾乃
 
@@ -1084,10 +1093,20 @@
 
 # Hinamatsuri
 新田
+ヒナ
+
+# Shirobako
+# Miyamori Aoi
+あおい
+木下
 
 # Mis-interpreted words by character names
 真
 創
+
+
+# Keigo
+いただく
 
 見る
 だ
@@ -1128,6 +1147,7 @@
 あげる
 さあ
 らしい
+つまり
 
 
 # Really should be a particle
@@ -1150,6 +1170,7 @@
 # うう -> うい
 うい
 はっ
+まぁ
 
 
 # Don't know what this is, exactly
@@ -1175,6 +1196,7 @@
 まだ
 また
 あと
+よる
 日
 力
 なん
@@ -1194,10 +1216,12 @@
 どうして
 なに
 とこ
+ボク
 
 魔法
 さん
 
 王
 
-
+# Like, wtf?!
+る
