@@ -140,6 +140,10 @@
 心配
 信じる
 
+同じ
+なつ
+夏
+
 
 # Really?!
 ハンター
@@ -1100,14 +1104,23 @@
 あおい
 木下
 
+# K-on
+唯
+
 # Mis-interpreted words by character names
 真
 創
 
 
+# Stuff I'm probably never going to underestand the meaning of
+つける
+かける
+
 # Keigo
 いただく
 
+# Honorific ご, I think
+ご
 見る
 だ
 た
@@ -1149,6 +1162,11 @@
 らしい
 つまり
 
+# Short for です
+っす
+
+がる
+
 
 # Really should be a particle
 の
@@ -1171,6 +1189,7 @@
 うい
 はっ
 まぁ
+おお
 
 
 # Don't know what this is, exactly
@@ -1225,3 +1244,9 @@
 
 # Like, wtf?!
 る
+
+# Probably masking something important, but will come back to later
+り
+
+# There's a character named ひびき
+ひびく

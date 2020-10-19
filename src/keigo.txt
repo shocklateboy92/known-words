@@ -2,3 +2,5 @@
 # Keigo
 いただく
 
+# Honorific ご, I think
+ご

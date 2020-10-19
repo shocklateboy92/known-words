@@ -39,6 +39,11 @@
 らしい
 つまり
 
+# Short for です
+っす
+
+がる
+
 
 # Really should be a particle
 の
@@ -61,6 +66,7 @@
 うい
 はっ
 まぁ
+おお
 
 
 # Don't know what this is, exactly
