@@ -5,11 +5,13 @@
 # Kobayashi-san no maido dragon
 トール
 小林
+カンナ
 
 # Darling in the Franxx
 ヒロ
 イチゴ
 ミク
+ココロ
 
 
 えり
@@ -17,6 +19,7 @@
 New Game!
 ひふみ
 さくら
+りん
 
 コウ
 綾乃
@@ -29,6 +32,7 @@ New Game!
 # Hinamatsuri
 新田
 ヒナ
+アンズ
 
 # Shirobako
 # Miyamori Aoi
@@ -37,6 +41,8 @@ New Game!
 
 # K-on
 唯
+# Mio
+澪
 
 # Shokugeki no Souma
 めぐみ
@@ -51,3 +57,4 @@ New Game!
 真
 創
 
+太郎

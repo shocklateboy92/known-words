@@ -159,6 +159,37 @@
 歳
 どうぞ
 本当
+マジ
+頭
+寝る
+くん
+なんか
+愛
+仲間
+会長
+最初
+所
+始める
+本
+女性
+書く
+動く
+かかる
+１つ
+感じる
+勿論
+電話
+選ぶ
+彼女
+あたし
+練習
+ふん
+実は
+ウソ
+乗る
+最近
+どっち
+
 
 # Really?!
 ハンター
@@ -1094,11 +1125,13 @@
 # Kobayashi-san no maido dragon
 トール
 小林
+カンナ
 
 # Darling in the Franxx
 ヒロ
 イチゴ
 ミク
+ココロ
 
 
 えり
@@ -1106,6 +1139,7 @@
 New Game!
 ひふみ
 さくら
+りん
 
 コウ
 綾乃
@@ -1118,6 +1152,7 @@ New Game!
 # Hinamatsuri
 新田
 ヒナ
+アンズ
 
 # Shirobako
 # Miyamori Aoi
@@ -1126,6 +1161,8 @@ New Game!
 
 # K-on
 唯
+# Mio
+澪
 
 # Shokugeki no Souma
 めぐみ
@@ -1140,6 +1177,7 @@ New Game!
 真
 創
 
+太郎
 
 # Stuff I'm probably never going to underestand the meaning of
 つける
@@ -1192,6 +1230,8 @@ New Game!
 つまり
 では
 どういう
+いえ
+こういう
 
 # Apparently the べき in するべき 
 べし
@@ -1225,6 +1265,8 @@ New Game!
 まぁ
 おお
 あぁ
+フッ
+はぁ
 
 
 # Don't know what this is, exactly
@@ -1275,6 +1317,7 @@ New Game!
 そろそろ
 円
 
+
 魔法
 さん
 
@@ -1297,5 +1340,12 @@ New Game!
 切
 
 黒
+瞳
 
 ほる
+
+# Another meaning with the same kanji
+店
+
+# New Game!'s うみこ
+みこ
