@@ -144,6 +144,21 @@
 なつ
 夏
 
+結構
+全て
+客
+続ける
+
+番
+すみません
+ほしい
+話す
+気持ち
+飲む
+味
+歳
+どうぞ
+本当
 
 # Really?!
 ハンター
@@ -1083,10 +1098,13 @@
 # Darling in the Franxx
 ヒロ
 イチゴ
+ミク
 
-# Not sure who this is, maybe Yukihira Souma's dad?
-幸平
+
 えり
+
+New Game!
+ひふみ
 さくら
 
 コウ
@@ -1094,6 +1112,8 @@
 
 # Yahari Ore no Seishun Love Come wa Machigatteiru
 葉山
+# ゆきのん
+ゆき
 
 # Hinamatsuri
 新田
@@ -1106,6 +1126,15 @@
 
 # K-on
 唯
+
+# Shokugeki no Souma
+めぐみ
+# Not sure who this is, maybe Yukihira Souma's dad?
+幸平
+
+# Zombieland Saga
+サキ
+
 
 # Mis-interpreted words by character names
 真
@@ -1161,6 +1190,11 @@
 さあ
 らしい
 つまり
+では
+どういう
+
+# Apparently the べき in するべき 
+べし
 
 # Short for です
 っす
@@ -1190,6 +1224,7 @@
 はっ
 まぁ
 おお
+あぁ
 
 
 # Don't know what this is, exactly
@@ -1236,11 +1271,17 @@
 なに
 とこ
 ボク
+多い
+そろそろ
+円
 
 魔法
 さん
 
 王
+オーラ
+あんな
+ベル
 
 # Like, wtf?!
 る
@@ -1250,3 +1291,11 @@
 
 # There's a character named ひびき
 ひびく
+
+姫
+薙
+切
+
+黒
+
+ほる

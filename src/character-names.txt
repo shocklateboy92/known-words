@@ -9,10 +9,13 @@
 # Darling in the Franxx
 ヒロ
 イチゴ
+ミク
 
-# Not sure who this is, maybe Yukihira Souma's dad?
-幸平
+
 えり
+
+New Game!
+ひふみ
 さくら
 
 コウ
@@ -20,6 +23,8 @@
 
 # Yahari Ore no Seishun Love Come wa Machigatteiru
 葉山
+# ゆきのん
+ゆき
 
 # Hinamatsuri
 新田
@@ -32,6 +37,15 @@
 
 # K-on
 唯
+
+# Shokugeki no Souma
+めぐみ
+# Not sure who this is, maybe Yukihira Souma's dad?
+幸平
+
+# Zombieland Saga
+サキ
+
 
 # Mis-interpreted words by character names
 真
